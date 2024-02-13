@@ -1,10 +1,6 @@
 # APAD - Air Pollution Asset Database
 
-<div style="text-align:center;">
-    ![APAD Logo](https://github.com/APAD2024/.github/blob/dc0b2f2cb50563015e2366777d1b78df1f8b3554/profile/logo.png)
-</div>
-
-
+![APAD Logo](https://github.com/APAD2024/.github/blob/dc0b2f2cb50563015e2366777d1b78df1f8b3554/profile/logo.png)
 
 
 ## Introducing APAD
@@ -43,4 +39,4 @@ APAD provides value to a wide range of stakeholders, including governments, indu
 
 ---
 
-For more information and updates, visit [APAD Website](https://www.apad.org) or contact us at contact@apad.org.
+For more information and updates, visit [APAD Website](https://apad.world/)
