@@ -1,6 +1,7 @@
 # APAD - Air Pollution Asset Database
 
-![APAD Logo](https://github.com/APAD2024/.github/blob/33ab3fa355669733b98363eb08741f0e4da89c13/profile/APAD-LOGO.png)
+![APAD Logo](https://github.com/APAD2024/.github/blob/33ab3fa355669733b98363eb08741f0e4da89c13/profile/APAD-LOGO.png =100px)
+
 
 
 ## Introducing APAD
