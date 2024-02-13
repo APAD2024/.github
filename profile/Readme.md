@@ -1,6 +1,7 @@
 # APAD - Air Pollution Asset Database
 
-![APAD Logo](apad_logo.png)
+![APAD Logo](APAD-LOGO.png=150x)
+
 
 ## Introducing APAD
 
